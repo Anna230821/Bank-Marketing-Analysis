@@ -3,6 +3,7 @@ This dataset includes over 40,000 records with a total of 21 columns and represe
 The research has two objectives: (1) to analyze the factors influencing a customer subscribes to a term deposit and identify directions for improving the marketing target audience, and (2) to utilize machine learning to generate a predictive model for forecasting whether a customer will successfully subscribe to the term deposit.
 
 Analysis Results:
+
 (1) Customers aged below 30 and above 60 show a higher willingness to subscribe to the product.
 (2) Occupations with significantly higher subscription rates include students and retirees.
 (3) The model's accuracy rate in predicting customer subscriptions to term deposit  is 89.16%. However, due to data imbalance, precision and recall rates are lower, leading to potential bias in predictions.
